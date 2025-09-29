@@ -15,10 +15,10 @@ Transformo datos financieros en bruto en **datasets limpios, dashboards y flujos
 ---
 
 ## 📂 Proyectos Destacados  
-- 🧹 **Limpieza de datos de clientes (7K registros)** — Python (pandas). Depuración de IDs, normalización de nombres y validación de edades → dataset listo para análisis. → [Repositorio](https://github.com/<tu-usuario>/<repo-clientes>)  
-- 📈 **Análisis de ventas y clientes (65K registros)** — Python (pandas, matplotlib). Agrupaciones y frecuencia de compra → insights de segmentación. → [Repositorio](https://github.com/<tu-usuario>/<repo-ventas>)  
-- 🎵 **Preferencias musicales (Encuestas 2020)** — Python (pandas, seaborn). Validación de hipótesis por edad/género → patrones detectados. → [Repositorio](https://github.com/<tu-usuario>/<repo-musica>)  
-- 🛒 **Pedidos Instacart (3M+ pedidos)** — Python (pandas, matplotlib). Segmentos de clientes y tendencias de recompra → insights de retención. → [Repositorio](https://github.com/<tu-usuario>/<repo-instacart>)  
+- 🧹 **Limpieza de datos de clientes (7K registros)** — Python (pandas). Depuración de IDs, normalización de nombres y validación de edades → dataset listo para análisis.
+- 📈 **Análisis de ventas y clientes (65K registros)** — Python (pandas, matplotlib). Agrupaciones y frecuencia de compra → insights de segmentación.
+- 🎵 **Preferencias musicales (Encuestas 2020)** — Python (pandas, seaborn). Validación de hipótesis por edad/género → patrones detectados.
+- 🛒 **Pedidos Instacart (3M+ pedidos)** — Python (pandas, matplotlib). Segmentos de clientes y tendencias de recompra → insights de retención.
 
 > 🔗 **Dashboards (Power BI):** agrega aquí el link a tu portafolio de BI o capturas de dashboards.  
 
